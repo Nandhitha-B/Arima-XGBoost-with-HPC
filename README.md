@@ -1,7 +1,8 @@
 # Arima-XGBoost-with-HPC
 Integration of High- Performance Computing (HPC) techniques with a hybrid ARIMA-XGBoost model to optimize time series forecasting tasks.
 
-Execution Procedure for the Stock Price Prediction Model
+Execution Procedure for the Stock Price Prediction Model :
+
 This document provides the execution procedure for the stock price prediction model implemented using various machine learning models such as ARIMA, XGBoost, and a hybrid model that combines the predictions of ARIMA and XGBoost. The model is trained on Apple stock data retrieved from Yahoo Finance and utilizes Dask for parallel computation to improve performance.
 1. Install Required Libraries
 Ensure you have the following libraries installed using the following pip command:
